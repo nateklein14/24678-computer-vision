@@ -1,5 +1,5 @@
 # 24-678: Computer Vision for Engineers
-## A collection of small computer vision projects completed for CMU graduate class 24-678: Computer Vision for Engineers
+A collection of small computer vision projects completed for CMU graduate class 24-678: Computer Vision for Engineers. Written in Python 3.10 using OpenCV 2.
 ### Projects:
 1. Thresholding and Gamma Correction
 2. Pseudocolorization
